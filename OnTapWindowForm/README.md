@@ -48,13 +48,16 @@
 ### Bài 3: Quản lý danh mục Vật tư / Linh kiện
 
 #### 1. Ảnh màn hình Giao diện chính
-![Giao diện chính](./screenshots/bai3_main_ui.png)
+<img width="937" height="525" alt="image" src="https://github.com/user-attachments/assets/a8eea370-6239-4d61-9cd8-3882486c88b4" />
 
 #### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Thực thi chức năng](./screenshots/bai3_execution_result.png)
+<img width="938" height="527" alt="image" src="https://github.com/user-attachments/assets/45a742d5-76e4-4d03-a0a3-cf8b4f6d184c" />
 
 #### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
-![Kiểm tra lỗi](./screenshots/bai3_validation_error.png)
+<img width="942" height="532" alt="image" src="https://github.com/user-attachments/assets/1d7a26e9-c69b-4ee7-85a2-63c350d82423" />
+<img width="942" height="531" alt="image" src="https://github.com/user-attachments/assets/52bd605a-8e97-4e4b-88f3-4d66288d0722" />
+<img width="937" height="520" alt="image" src="https://github.com/user-attachments/assets/fa465261-7bba-48d4-adae-17c778f2ae18" />
+<img width="936" height="523" alt="image" src="https://github.com/user-attachments/assets/151afae7-591a-49bb-9b4b-a46167c43eb3" />
 
 ---
 
