@@ -1,27 +1,12 @@
-# BÁO CÁO BÀI TẬP / ĐỒ ÁN
+# BÁO CÁO BÀI TẬP 
 
 ## THÔNG TIN SINH VIÊN
 
-- **Họ và tên:** [Điền họ tên]
-- **Mã số sinh viên:** [Điền MSSV]
-- **Lớp:** [Điền lớp]
+- **Họ và tên:** Trần Ngọc Anh
+- **Mã số sinh viên:** 24810310211
+- **Lớp:** D19CNPM3
 - **Tên môn học:** Lập trình C# / Windows Forms
 - **Tên bài tập:** Ôn tập Windows Form (Bài 1 - Bài 5)
-
----
-
-## CẤU TRÚC PROJECT
-
-Mở file `OnTapWindowForm.sln` bằng Visual Studio 2022 (.NET 8 - Windows Forms).
-Muốn chạy bài nào thì chuột phải vào project đó → **Set as Startup Project** → nhấn **F5**.
-
-| Bài | Project | Nội dung chính |
-|-----|---------|----------------|
-| 1 | `Bai1_TinhCuocDichVu` | TextBox, Label, Button, TabIndex, validate dữ liệu, tính tiền có giảm giá |
-| 2 | `Bai2_PhieuSuCoIT` | RadioButton, CheckBox, ComboBox, DateTimePicker, PictureBox + OpenFileDialog |
-| 3 | `Bai3_QuanLyVatTu` | ListView (Details, FullRowSelect), List&lt;VatTu&gt; lưu trên RAM, Thêm/Sửa/Xóa |
-| 4 | `Bai4_DatChoNgoi` | TableLayoutPanel 4×5, sinh 20 Button bằng vòng lặp `for`, 1 hàm Click dùng chung |
-| 5 | `Bai5_QuanLyDonGiaoHang` | SplitContainer, DataGridView, StatusStrip + Timer, ErrorProvider, phím tắt F2/Delete |
 
 ---
 
@@ -30,26 +15,33 @@ Muốn chạy bài nào thì chuột phải vào project đó → **Set as Start
 ### Bài 1: Máy tính tính cước dịch vụ & Giảm giá
 
 #### 1. Ảnh màn hình Giao diện chính
-![Giao diện chính](./screenshots/bai1_main_ui.png)
+<img width="497" height="441" alt="image" src="https://github.com/user-attachments/assets/b1714dd0-69ea-4529-b600-a4a39384441d" />
 
 #### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Thực thi chức năng](./screenshots/bai1_execution_result.png)
+<img width="502" height="442" alt="image" src="https://github.com/user-attachments/assets/dcfd727c-1765-47b8-9791-1703888df33c" />
 
 #### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
-![Kiểm tra lỗi](./screenshots/bai1_validation_error.png)
+<img width="500" height="437" alt="image" src="https://github.com/user-attachments/assets/7192a0f9-7071-40d7-98c3-5a7390068f07" />
+<img width="500" height="446" alt="image" src="https://github.com/user-attachments/assets/c4302f0a-532f-4865-9bda-b0de0a4ed79e" />
+<img width="510" height="440" alt="image" src="https://github.com/user-attachments/assets/402e8aef-0f16-4aca-9c9d-9314b603d9a7" />
+
 
 ---
 
 ### Bài 2: Form Tiếp nhận & Phân loại sự cố IT
 
 #### 1. Ảnh màn hình Giao diện chính
-![Giao diện chính](./screenshots/bai2_main_ui.png)
+<img width="877" height="631" alt="image" src="https://github.com/user-attachments/assets/2c03188e-cd01-4dd8-97ba-b570ad1ccc86" />
+
 
 #### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Thực thi chức năng](./screenshots/bai2_execution_result.png)
+<img width="871" height="622" alt="image" src="https://github.com/user-attachments/assets/979dc82e-39cd-4c11-a9ba-3559a1a5745a" />
 
 #### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
-![Kiểm tra lỗi](./screenshots/bai2_validation_error.png)
+<img width="877" height="617" alt="image" src="https://github.com/user-attachments/assets/948a482d-d30c-4bbd-8e2f-862da5d53535" />
+<img width="872" height="616" alt="image" src="https://github.com/user-attachments/assets/29563b06-7201-4204-9e33-e03480d5598e" />
+<img width="867" height="617" alt="image" src="https://github.com/user-attachments/assets/bb429672-f693-4daf-b603-58193b00f4cb" />
+
 
 ---
 
